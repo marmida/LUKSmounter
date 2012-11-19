@@ -1,0 +1,8 @@
+# LUKSmounter configuration file template
+# copy this to ~/.luksmounter
+
+[default]
+
+loopback_file = <path to the file that contains the encrypted data>
+luks_device_name = <name of the device that cryptsetup should create in /dev/mapper>
+mount_point = <where to mount the encrypted filesystem>

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name=LUKSmounter
+Type=Application
+Exec=gksudo python /home/marmida/develop/luksmounter/luksmounter.py
+Icon=/usr/share/icons/oxygen/64x64/status/dialog-password.png
